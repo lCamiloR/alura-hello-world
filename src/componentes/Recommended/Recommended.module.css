@@ -1,0 +1,10 @@
+.recommended {
+    padding: 2rem 6vw 3.625rem;
+}
+
+.posts {
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}

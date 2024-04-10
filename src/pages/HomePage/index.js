@@ -1,5 +1,5 @@
-import styles from './HomePage.module.css'
-import posts from 'json/posts.json'
+import styles from './HomePage.module.css';
+import posts from 'json/posts.json';
 import PostCard from "componentes/PostCard";
 
 function inicio() {
